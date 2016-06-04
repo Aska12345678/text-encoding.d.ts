@@ -1,0 +1,11 @@
+{
+  "name": "text-encoding",
+  "main": "text-encoding.d.ts",
+  "ambient": false,
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for text-encoding.",
+  "ambientDevDependencies": {},
+  "dependencies": {
+    
+  }
+}
